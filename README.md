@@ -54,6 +54,8 @@ Sign up for a new account. And whem you're done , login and goto the page USERS 
 
 A new page will open where you can create a new API KEY and copy.
 
+![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/open_ai_website.png)
+
 Next goto windows explorer folder "c:\users\\%userName%\\Jupyter\GPT3" and open with the notepad the file named ".ENV". Paste inside that file the API Key you copied from the website next to the = sign , where it says: 
 
 OPENAI_KEY="paste your api key where" (without the qoute marks)
