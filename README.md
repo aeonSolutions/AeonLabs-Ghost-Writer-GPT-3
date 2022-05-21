@@ -23,3 +23,6 @@ install the following python libraries by typing on the command prompt and hit e
 
 ### 4- Go to Anaconda App and select "Lauch" Jupiter Notebooks
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/anaconda_jupyter.png)
+
+this is how Jupiter Nobooks looks like in a browser (i'm using brave browser)
+![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/jupyter_notebooks.png)
