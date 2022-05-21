@@ -17,7 +17,7 @@ In the end, should be look like this
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/windows_explorer.png)
 
 ### 1- Install Anaconda distro
-Goto Anaconda website here: https://www.anaconda.com , download and install Anaconda. The instalation is simple and strait forward
+Goto Anaconda website here: https://www.anaconda.com , download and install. The instalation is simple and strait forward
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/anaconda_website.png)
 
 ### 2- Open Anaconda App and select "Lauch" in CMD.exe prompt
