@@ -24,7 +24,7 @@ Goto Anaconda website here: https://www.anaconda.com , download and install. The
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/anaconda_cmd.png)
 
 ### 3- Install python libraires
-Next a commoand prompt windows opens. And then you need to install the following python libraries by typing and hit enter each one below
+Next a command prompt windows opens. And then you need to install the following python libraries by typing and hit enter each one below
 
 - pip install openai
 - pip install python-docx
