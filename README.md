@@ -6,8 +6,8 @@
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/github_download.png)
 
 ### 0.1 - Extract Zip file contents
-- Create a new directory named "Jupyter" inside the directory c:\users\%userName%
-- Create a new directory named "GPT3" inside the directory c:\users\%userName%\Jupyter
+- Create a new directory named "Jupyter" inside the directory c:\users\\%userName%
+- Create a new directory named "GPT3" inside the directory c:\users\\%userName%\J\upyter
 
 where %userName% is your windows account username
 
