@@ -11,7 +11,7 @@
 
 where %userName% is your windows account username
 
-Extract Zip files contents a to the Directory c:\users\%userName%\Jupyter\GPT3
+Extract Zip files contents a to the Directory c:\users\\%userName%\\Jupyter\GPT3
 
 In the end, should be look like this
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/windows_explorer.png)
