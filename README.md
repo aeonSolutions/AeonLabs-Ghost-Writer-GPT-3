@@ -25,4 +25,10 @@ install the following python libraries by typing on the command prompt and hit e
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/anaconda_jupyter.png)
 
 this is how Jupiter Nobooks looks like in a browser (i'm using brave browser)
+![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/jupyter_folder.png)
+
+### 5 - Open a Jupyer Notebook
+The last step is to open the jupyter notebook "OpenAI Essay Writer.ipynb". Double click an a new tab will open in the browser.
+
+The code open should look something like the one in the snapshot below.
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/jupyter_notebooks.png)
