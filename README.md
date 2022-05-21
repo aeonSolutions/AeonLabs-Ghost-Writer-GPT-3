@@ -5,13 +5,16 @@
 ### 0- download this github repository
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/github_download.png)
 
-### 1- Install Anaconda distro from here: https://www.anaconda.com The instalation is simple and strait forward
+### 1- Install Anaconda distro
+Goto Anaconda website here: https://www.anaconda.com , download and install Anaconda. The instalation is simple and strait forward
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/anaconda_website.png)
 
 ### 2- Open Anaconda App and select "Lauch" in CMD.exe prompt
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/anaconda_cmd.png)
 
-### 3- install the following librries by typing and hit enter on each one below
+### 3- Install python libraires
+install the following python libraries by typing on the command prompt and hit enter each one below
+
 - pip install openai
 - pip install python-docx
 - pip install python-dotenv
