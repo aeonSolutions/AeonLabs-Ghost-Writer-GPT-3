@@ -5,6 +5,17 @@
 ### 0- download this github repository
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/github_download.png)
 
+### 0.1 - Extract Zip file contents
+- Create a new directory named "Jupyter" inside the directory c:\users\%userName%
+- Create a new directory named "GPT3" inside the directory c:\users\%userName%\Jupyter
+
+where %userName% is your windows account username
+
+Extract Zip files contents a to the Directory c:\users\%userName%\Jupyter\GPT3
+
+In the end, should be look like this
+![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/windows_explorer.png)
+
 ### 1- Install Anaconda distro
 Goto Anaconda website here: https://www.anaconda.com , download and install Anaconda. The instalation is simple and strait forward
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/anaconda_website.png)
@@ -25,4 +36,10 @@ install the following python libraries by typing on the command prompt and hit e
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/anaconda_jupyter.png)
 
 this is how Jupiter Nobooks looks like in a browser (i'm using brave browser)
+![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/jupyter_folder.png)
+
+### 5 - Open a Jupyer Notebook
+The last step is to open the jupyter notebook "OpenAI Essay Writer.ipynb". Double click an a new tab will open in the browser.
+
+The code open should look something like the one in the snapshot below.
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/jupyter_notebooks.png)
