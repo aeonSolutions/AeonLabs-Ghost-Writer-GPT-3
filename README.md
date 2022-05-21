@@ -1,4 +1,4 @@
-# AeonLabs Ghost Writer GPT-3
+# AeonLabs Ghost Writer GPT-3  ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_Ghost_Writer_GPT_3.svg)
  This is a small piece of python code to evaluate GPT-3 capabilities for ghost writing.
 
 ## Setup
