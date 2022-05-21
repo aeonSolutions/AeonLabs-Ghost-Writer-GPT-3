@@ -40,7 +40,7 @@ this is how Jupiter Nobooks looks like in a browser (i'm using brave browser)
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/jupyter_folder.png)
 
 ### 5 - Open a Jupyer Notebook
-In the Tab with the jupyter notebooks files and folders click to open the "Jupyter" folder. Next click to open the "GPT3" folder.
+In the Tab with the jupyter notebooks files and folders click to open the "Jupyter" folder (created earlier). Next click to open the "GPT3" folder (created earlier).
 
 The last step is to open the jupyter notebook "*OpenAI Essay Writer.ipynb*". Double click an a new tab will open in the browser.
 
