@@ -47,13 +47,16 @@ The last step is to open the jupyter notebook "*OpenAI Essay Writer.ipynb*". Dou
 The code open should look something like the one in the snapshot below.
 ![](https://github.com/aeonSolutions/AeonLabs-Ghost-Writer-GPT-3/blob/main/img/jupyter_notebooks.png)
 
-### Get a API KEY from Open AI website
+### 6- Get a API KEY from Open AI website
 In order GPT-3 algorithm to work you need to have an API KEY made available at Open AI website here: https://beta.openai.com/signup
 
 Sign up for a new account. And whem you're done , login and goto the page USERS >> API KEY by clicking on the left side menu.
 
 A new page will open where you can create a new API KEY and copy.
 
-Next goto windows explorer folder c:\users\\%userName%\\Jupyter\GPT3 and open with the notepad the file named ".ENV". Paste inside that file the API Key you copied from the website next to the = sign , where it says: 
+Next goto windows explorer folder "c:\users\\%userName%\\Jupyter\GPT3" and open with the notepad the file named ".ENV". Paste inside that file the API Key you copied from the website next to the = sign , where it says: 
 
 OPENAI_KEY="paste your api key where" (without the qoute marks)
+
+Now , got back to the browser with the jupyter notebook "*OpenAI Essay Writer.ipynb*" open and click run to see the GPT-3 provide text paragraph sugestions.
+
